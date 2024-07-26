@@ -2,9 +2,10 @@
 
 Welcome to the "Exploring US Home Price Trends" project repository! In this project, we embark on a data-driven journey to understand the key factors influencing home prices in the United States over the past two decades. By leveraging publicly available data and advanced data science techniques, our goal is to build a comprehensive model that sheds light on the intricate relationship between various factors and home prices.
 
-- [🔗 Data Cleaning](https://github.com/Npps1997/USA-HOUSING--Data-Science-Model/blob/main/Data_Cleaning_LLC.ipynb): Details on data cleaning and preprocessing.
-- [🔗 EDA_and_Feature_Engineering](https://github.com/Npps1997/USA-HOUSING--Data-Science-Model/blob/main/EDA_LLC.ipynb): Information about data relations and distributions.
-- [🔗 Model_Training](https://github.com/Npps1997/USA-HOUSING--Data-Science-Model/blob/main/model_training_LLC.ipynb): Model Training and Evaluation of features.
+
+- [🔗 Data Cleaning](https://github.com/pritamkumar143/US_house/blob/main/Data_Cleaning_LLC.ipynb): Details on data cleaning and preprocessing.
+- [🔗 EDA_and_Feature_Engineering](https://github.com/pritamkumar143/US_house/blob/main/EDA_LLC.ipynb): Information about data relations and distributions.
+- [🔗 Model_Training](https://github.com/pritamkumar143/US_house/blob/main/model_training_LLC.ipynb): Model Training and Evaluation of features.
 
 Feel free to explore each section for a deeper understanding of the project.
 
